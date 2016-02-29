@@ -1,6 +1,6 @@
 name: wyndmyllcreations.com
 favicon: null
-layout_spectrum: 0.08474377170205116
+layout_spectrum: 0.51112
 typography_spectrum: 0.384966402547434
 title: 'Aerial Photography & Videography'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#fea900'
     - '#595437'
     - '#00997a'
-  brandStrength: 0.4706016869749874
+  brandStrength: 0.5
   lightness: 0.31376652931794524
   saturation: 0.5861040728632361
   rhythmicContrast: 0.7116668524686247
