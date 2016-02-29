@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[wyndmyllcreations.com]]></title>
-        <description><![CDATA[wyndmyllcreations.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Aerial Photography & Videography]]></title>
+        <description><![CDATA[Aerial Photography & Videography]]></description>
+        <link>https://thegrid.ai/wyndmyllcreations-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 00:21:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 00:32:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wyndmyllcreations-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to Wyndmyll Creations. Wyndmyll Creations was an idea that was quickly put into place in June of 2015. The use of drones for Aerial projects, videography, and photography was growing rapidly. So Wyndmyll Creations was born. We are located in Slapout, AL. and look to provide you with a platform, to assist you, in getting stunning images to your customers, or family and friends. We are here to help you show what type of business you are in, help you create memories you want to share, or the home you are wanting to sell, to name a few of our services. The uses of aerial photography and videography are endless. Some examples are : Real Estate, Agriculture, Safety inspections, Hunting, Aerial mapping, Search & Rescue, and advertising, just to name a few. </p>]]></description>
-            <link>undefinedf080bd8e-600d-463b-b1f8-270f8250bce7/index.html</link>
+            <link>https://thegrid.ai/wyndmyllcreations-com/f080bd8e-600d-463b-b1f8-270f8250bce7/index.html</link>
             <guid isPermaLink="false">f080bd8e-600d-463b-b1f8-270f8250bce7</guid>
-            <pubDate>Mon, 29 Feb 2016 00:21:12 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 00:32:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
